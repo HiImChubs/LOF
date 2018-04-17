@@ -1,0 +1,192 @@
+/*** sectioning elements ***/
+
+body {
+text-align: center;
+
+}
+
+header {
+  background-color: #EA4335;
+  /*#22b524*/
+}
+
+main {
+  color: #ffffff;
+  background-color: #9B9B9B;
+}
+
+footer {
+  background-color: #646464;
+  color: #ffffff;
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+.navbar {
+  background-color: #646464;
+  font-family: 'Gugi', cursive;
+
+}
+
+.navbar-brand {
+  color: #fff;
+  font-family: 'Gugi', cursive;
+
+}
+
+.navbar-brand a:link,
+.navbar-brand a:visited {
+  color: #EA4335;
+  font-family: 'Gugi', cursive;
+
+}
+
+.navbar-brand a:hover,
+.navbar-brand a:active {
+  color: #fff;
+  font-family: 'Gugi', cursive;
+
+}
+
+.navbar-menu a:link,
+.navbar-menu a:visited {
+  color: #fff;
+  font-family: 'Gugi', cursive;
+
+}
+
+.navbar-menu a:hover,
+.navbar-menu a:active {
+
+}
+
+.navbar-menu.menu-shown {
+  background-color: #646464;
+}
+
+.menu-toggle {
+  color: #fff;
+}
+
+.menu-dismiss {
+  color: #fff;
+}
+
+.menu-shown a:link,
+.menu-shown a:visited {
+  color: #fff;
+}
+
+.menu-shown a:active,
+.menu-shown a:hover {
+
+}
+/**** content styles ***/
+
+h1 {
+  color: #ffffff;
+  margin: 0;
+  font-family: 'Gugi', cursive;
+  margin-top: 40px;
+}
+
+h2 {
+  font-family: 'Gugi', cursive;
+}
+
+
+footer h3 {
+  color: #fff;
+  font-size: 24px
+}
+
+
+h3 {
+font-family: 'IBM Plex Mono', monospace;
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 14px
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
