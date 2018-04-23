@@ -32,7 +32,7 @@ aside {
 
 }
 
-
+/*** CUSTOM ODIN OVERIDES ***/
 .navbar {
   background-color: #646464;
   font-family: 'Gugi', cursive;
@@ -92,6 +92,8 @@ aside {
 .menu-shown a:hover {
 
 }
+
+
 /**** content styles ***/
 
 h1 {
