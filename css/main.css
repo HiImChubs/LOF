@@ -101,6 +101,7 @@ h1 {
   margin: 0;
   font-family: 'Gugi', cursive;
   margin-top: 40px;
+  font-size: 55px
 }
 
 h2 {
@@ -116,6 +117,7 @@ footer h3 {
 
 h3 {
 font-family: 'IBM Plex Mono', monospace;
+font-size: 32px
 }
 
 h4 {
@@ -132,7 +134,7 @@ h6 {
 
 p {
   font-family: 'Roboto Mono', monospace;
-  font-size: 14px
+  font-size: 16px
 }
 
 blockquote {
@@ -165,6 +167,10 @@ th {
 
 td {
 
+}
+
+show-gridlines{
+  color: #646464
 }
 
 
