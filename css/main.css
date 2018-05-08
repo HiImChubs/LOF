@@ -2,7 +2,6 @@
 
 body {
 text-align: center;
-
 }
 
 header {
@@ -101,7 +100,6 @@ h1 {
   margin: 0;
   font-family: 'Gugi', cursive;
   margin-top: 40px;
-  font-size: 55px
 }
 
 h2 {
@@ -117,7 +115,6 @@ footer h3 {
 
 h3 {
 font-family: 'IBM Plex Mono', monospace;
-font-size: 32px
 }
 
 h4 {
@@ -134,7 +131,7 @@ h6 {
 
 p {
   font-family: 'Roboto Mono', monospace;
-  font-size: 16px
+  font-size: 14px;
 }
 
 blockquote {
@@ -153,8 +150,12 @@ li {
 
 }
 
-table {
-width: 100%;
+table.directory {
+  width: 100%;
+}
+
+tbody{
+  font-size: 20px;
 }
 
 tr {
@@ -166,11 +167,16 @@ th {
 }
 
 td {
+  /*display: block;
+  font-size: 16px;*/
 
 }
 
-show-gridlines{
-  color: #646464
+@media (max-width: 600px) {
+  table {
+      width: 80%;
+  }
+
 }
 
 
