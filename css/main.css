@@ -92,6 +92,11 @@ aside {
 
 }
 
+.grow {
+  transition: all .2s ease-in-out;
+  border-style: none;
+}
+
 
 /**** content styles ***/
 
@@ -115,6 +120,11 @@ footer h3 {
 
 h3 {
 font-family: 'IBM Plex Mono', monospace;
+}
+
+.white{
+  color: #ffffff;
+  font-size: 25px;
 }
 
 h4 {
@@ -155,7 +165,8 @@ table.directory {
 }
 
 tbody{
-  font-size: 20px;
+  font-family: 'Roboto Mono', monospace, bold;
+  font-size: 25px;
 }
 
 tr {
@@ -174,9 +185,16 @@ td {
 
 @media (max-width: 600px) {
   table {
-      width: 80%;
+    max-width: 100%;
   }
+  tbody{
+    font-family: 'Roboto Mono', monospace, bold;
+    font-size: 14px;
 
+  }
+  table img{
+    width: 50%;
+  }
 }
 
 
