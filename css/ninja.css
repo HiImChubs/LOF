@@ -6,17 +6,17 @@ text-align: center;
 }
 
 header {
-  background-color: #EA4335;
+  background-color: #0082FE;
   /*#22b524*/
 }
 
 main {
   color: #ffffff;
-  background-color: #9B9B9B;
+  background-color: #828282;
 }
 
 footer {
-  background-color: #646464;
+  background-color: #0082FE;
   color: #ffffff;
 }
 
@@ -34,7 +34,7 @@ aside {
 
 /*** CUSTOM ODIN OVERIDES ***/
 .navbar {
-  background-color: #646464;
+  background-color: #E38C00;
   font-family: 'Gugi', cursive;
 
 }
@@ -97,7 +97,7 @@ aside {
 /**** content styles ***/
 
 h1 {
-  color: #ffffff;
+  color: #FFFFFF;
   margin: 0;
   font-family: 'Gugi', cursive;
   margin-top: 40px;
@@ -116,6 +116,7 @@ footer h3 {
 
 
 h3 {
+color: #E38C00;
 font-family: 'IBM Plex Mono', monospace;
 font-size: 32px
 }
