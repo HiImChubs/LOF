@@ -343,30 +343,3 @@ a:active {
   background: #ff6600;
   color: white;
 }
-
-.zoom {
-  padding: 20px;
-  transition: transform .2s;
-  width:auto;
-  height:auto;
-  
-
-
-}
-
-
-.grow {
-  transition: all .2s ease-in-out;
-  border-style: none;
- }
-.grow:hover { transform: scale(1.2); }
-
-.growd {
-  transition: all .2s ease-in-out;
-  border-style: none;
- }
-.growd:hover { transform: scale(1.04); }
-
-.border{
-  border: 2px solid  #000;
-  background-color:  #9f7bf8;
