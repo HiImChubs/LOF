@@ -6,8 +6,8 @@ text-align: center;
 }
 
 header {
-  background-color: #0082FE;
-  /*#22b524*/
+  background-color: #00529C;
+/*  #00529C */
 }
 
 main {
@@ -16,7 +16,7 @@ main {
 }
 
 footer {
-  background-color: #0082FE;
+  background-color: #00529C;
   color: #ffffff;
 }
 
@@ -34,7 +34,7 @@ aside {
 
 /*** CUSTOM ODIN OVERIDES ***/
 .navbar {
-  background-color: #E38C00;
+  background-color: #EFAE18;
   font-family: 'Gugi', cursive;
 
 }
@@ -106,6 +106,7 @@ h1 {
 
 h2 {
   font-family: 'Gugi', cursive;
+  color: #ffff
 }
 
 
@@ -116,7 +117,7 @@ footer h3 {
 
 
 h3 {
-color: #E38C00;
+color: #EFAE18;
 font-family: 'IBM Plex Mono', monospace;
 font-size: 32px
 }
